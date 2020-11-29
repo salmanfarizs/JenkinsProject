@@ -15,6 +15,7 @@ public class StartUp {
 		 driver=new ChromeDriver();
 		 System.out.println("running");
 		 driver.get("https://accounts.google.com/");
+		 driver.get("https://www.facebook.com/");
 
 	}
 
